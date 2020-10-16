@@ -1,5 +1,7 @@
 # BMI-Calculater
 
+[!](./vid.gif)
+
 # Project Description
 
 - **BMI stands for `body mass index.`**
